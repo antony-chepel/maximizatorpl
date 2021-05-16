@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1086965363698",
+    "project_id": "maximator-pl",
+    "storage_bucket": "maximator-pl.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086965363698:android:1e7c16ee88b00fe178b16b",
+        "android_client_info": {
+          "package_name": "com.tony_fire.profitapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086965363698-ag828h6jmm88bper2l4rcn1o6qukdsqb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4xemygMpiZlbC6hEJ9bRs2Lh-AgntegU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1086965363698-ag828h6jmm88bper2l4rcn1o6qukdsqb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
